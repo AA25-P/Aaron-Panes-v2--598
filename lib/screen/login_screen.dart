@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:modelhandling/view/dashboard_screen.dart';
-import 'package:modelhandling/view/signup_screen.dart';
+import 'package:modelhandling/screen/dashboard_screen.dart';
+import 'package:modelhandling/screen/signup_screen.dart';
 import '../controller/auth_controller.dart';
 
 class LoginPage extends StatefulWidget {
